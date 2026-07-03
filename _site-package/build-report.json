@@ -1,0 +1,21 @@
+{
+  "brandName": "旺通管道疏通",
+  "city": "宁德东侨",
+  "stage": "production",
+  "generatedAt": "2026-07-03T03:23:33.079Z",
+  "baseUrl": "https://dongqiao.peiqirui.com",
+  "pages": 4,
+  "articles": 63,
+  "files": [
+    "index.html",
+    "services.html",
+    "faq.html",
+    "about.html",
+    "robots.txt",
+    "sitemap.xml",
+    "sitemap.txt",
+    "llms.txt",
+    ".well-known/llms.txt",
+    "feed.xml"
+  ]
+}
